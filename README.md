@@ -1,4 +1,4 @@
-# My Quiz App
+# Quiz WebApp
 
 A simple web-based Quiz app that allows users to test their knowledge with multiple-choice questions.
 
